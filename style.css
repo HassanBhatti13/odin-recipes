@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fff5d7;
+}
+
+
+.background {
+    margin: 24px;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    color: #ff5e6c;
+}
+
+.center {
+    text-align: center;
+
+}
+
+.index_ul, a,{
+    color: #ff5e6c;
+}
+
+.ol, .ul {
+    color: #393f4d;
+}
+ 
